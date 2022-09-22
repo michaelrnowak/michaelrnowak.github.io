@@ -1,0 +1,76 @@
+main .jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.3rem;
+  background-color: #E8E9EA;
+}
+
+main .jumbotron  h1 {
+    font-size: 1.6rem;
+    margin: 0px;
+    color: #13294b;
+}
+
+main .jumbotron  h2 {
+    font-size: 1.1rem;
+    margin: 0px;
+    color: #003366;
+}
+
+main .jumbotron  h3 {
+    font-size: 1.1rem;
+    color: #003366;
+}
+
+main .jumbotron a, main .jumbotron a:hover {
+    color: #003366;
+}
+
+main .jumbotron p a, main .jumbotron p a:hover {
+    color: #E84A27;
+    font-style: italic;
+}
+
+header {
+    padding-top: 1em;
+    padding-bottom: .5em;
+}
+
+.uiuc {
+    background-color:#13294b;
+    border-bottom: 5px solid #E84A27;
+}
+
+.tamu {
+    background-color:#500000;
+    border-bottom: 5px solid #D6D3C4;
+}
+
+/*header h1 {
+    font-size: 1.7rem;
+    margin: 0px;
+    color: #E8E9EA;
+}
+
+header h2 {
+    font-size: 1rem;
+    margin: 0px;
+    color: #A5A8AA;
+}
+
+header h3 {
+    font-size: 1rem;
+    color: #A5A8AA;
+}
+
+header a, a:hover {
+    color: #A5A8AA;
+}*/
+
+main h3 {
+    font-size: 1.4rem;
+}
+
+main h4 {
+    font-size: 1.1rem;
+}
